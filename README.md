@@ -40,9 +40,7 @@ skull2face/
 ├── preprocess/           # alignment, normalization, landmarks
 ├── models/               # FLAME wrapper + Skull→Face regressor
 ├── training/             # train loops, losses
-├── inference/            # predict face from skull
 ├── blender_addon/        # plugin for AI-driven texture generation
-├── notebooks/            # experiments & visualizations
 └── README.md             # this file
 ```
 
